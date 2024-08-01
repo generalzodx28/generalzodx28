@@ -2,9 +2,9 @@
 <h1 align="center">👋 I'm Zod</h1>
 <h3 align="center">A passionate Cyber Security Specialist and Ethical Hacker from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zod-hacker&label=Profile%20views&color=0e75b6&style=flat" alt="zod-hacker" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=generalzodx28&label=Profile%20views&color=0e75b6&style=flat" alt="generalzodx28" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zod-hacker" alt="zod-hacker" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=generalzodx28" alt="generalzodx28" /></a> </p>
 
 - 🔭 Currently bumping head in **Cyber Security and Hacking**
 
