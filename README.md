@@ -1,4 +1,4 @@
-<img alt="header.png" src="Zeeshan6.gif" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
+<img alt="header.png" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
 <h1 align="center">👋 I'm Zod</h1>
 <h3 align="center">A passionate Cyber Security Specialist and Ethical Hacker from Pakistan</h3>
 
